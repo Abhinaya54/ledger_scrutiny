@@ -86,3 +86,6 @@ lerna-debug.log*
 .vite/
 .npm/
 .yarn/
+
+# Archive
+test/*
